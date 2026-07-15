@@ -2,30 +2,30 @@
   <img src="assets/banner.svg" alt="Awesome Automated Bill Lowering" width="100%"/>
 </div>
 
-# Awesome-Automated-Bill-Lowering
-## Top Automated Bill Lowering Softwares Ecosystem
+# 🚀 Awesome-Automated-Bill-Lowering
+## 💰 Top Automated Bill Lowering Softwares Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on AI Bill Negotiation, Subscription Management & Cost Optimization*  
-**Last updated: March 2026**
+**📋 Curated List of SaaS Products & Open-Source GitHub Projects**  
+*🎯 Focused on AI Bill Negotiation, Subscription Management & Cost Optimization*  
+**🗓️ Last updated: March 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **Automated Bill Lowering Softwares**. These tools analyze your bills, subscriptions, and recurring expenses, negotiate lower rates, cancel unused services, and optimize spending automatically.
+This repository tracks notable **SaaS platforms** and **open-source projects** building **Automated Bill Lowering Softwares**. These tools 📊 analyze your bills, 📱 subscriptions, and recurring expenses, 🤝 negotiate lower rates, ❌ cancel unused services, and ⚡ optimize spending automatically.
 
-**Examples** include Trim, Rocket Money, Billshark, and Kudos (the category leaders). Tools listed here emphasize **AI negotiation**, subscription tracking, savings discovery, and automated actions.
+**✨ Examples** include Trim, Rocket Money, Billshark, and Kudos (the category leaders). Tools listed here emphasize **🤖 AI negotiation**, 📋 subscription tracking, 🔍 savings discovery, and ⚙️ automated actions.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local processing, full customization, and complete data privacy — ideal for individuals and families who want sovereign bill optimization without sharing financial data.
+**🔓 Open-source emphasis**: This section is heavily expanded with every major active project for 🏠 self-hosting, 💻 local processing, 🛠️ full customization, and 🔒 complete data privacy — ideal for individuals and families who want sovereign bill optimization without sharing financial data.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+🙌 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📑 Table of Contents
+- [💼 SaaS Products](#-saas-products)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
-## SaaS Products
+## 💼 SaaS Products
 
-### Core Platforms (Automated Bill Lowering)
+### 🏆 Core Platforms (Automated Bill Lowering)
 
 | Name | Description | Pricing | Company Size |
 |------|-------------|---------|--------------|
@@ -35,13 +35,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Billshark](https://www.billshark.com/)** | Bill negotiation service that fights for lower rates on cable, internet, insurance, and more. | **No upfront fees.** Success fee: 40% of total savings. Subscription cancellation: $9/cancelled subscription. No savings = no charge. | **~$3M** seed funding |
 | **[BillCutterz](https://www.billcutterz.com/)** | Negotiates lower rates on cell phone, cable, internet, home security, and satellite radio bills. | **No upfront fees.** Success fee: 50% of savings. Pay-in-full discount: additional 10% off fee. No savings = no charge. | Undisclosed (bootstrapped) |
 
-### Advanced & Specialized Platforms
+### 🔧 Advanced & Specialized Platforms
 
 **Other notable mentions**: Truebill (now Rocket Money) and various personal finance AI tools.
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-### Dedicated Bill Lowering & Subscription Management Tools
+### 🛠️ Dedicated Bill Lowering & Subscription Management Tools
 
 - **[n8n Bill Optimization Workflows](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Open-source automation tool with LLM nodes for building custom bill tracking, negotiation scripts, and subscription management systems.
@@ -81,23 +81,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Budget with Buckets](https://github.com/buckets/application)** [![GitHub stars](https://img.shields.io/github/stars/buckets/application?style=social&color=white)](https://github.com/buckets/application/stargazers)  
   Open-source envelope budgeting system with potential for bill tracking automation.
 
-### Additional Resources
+### 📚 Additional Resources
 
 - **Many community Python scripts** for scraping bills and negotiating via APIs.
 - **Ollama + Receipt OCR** pipelines for local bill analysis and optimization agents.
 
-**Frameworks for building custom tools**: Combine **Firefly III**, **n8n**, **LangGraph**, and **Huginn** with **Ollama** to create fully private, AI-powered bill lowering systems.
+🧰 **Frameworks for building custom tools**: Combine **Firefly III**, **n8n**, **LangGraph**, and **Huginn** with **Ollama** to create fully private, AI-powered bill lowering systems.
 
-## How to Contribute
+## 🤝 How to Contribute
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+1. 🍴 Fork the repo.
+2. ✏️ Add/edit entries in `README.md` (follow existing format).
+3. 📝 Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+4. 📬 Submit PR with a short explanation.
 
-Star the repo if you find it useful!
+⭐ Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Automated bill negotiation should comply with service provider terms and local consumer protection laws.
@@ -105,5 +105,5 @@ Star the repo if you find it useful!
 
 ---
 
-**Made for budget-conscious individuals, families, and small business owners.**  
-Let's make bill management smarter, more automated, and fully private.
+**💚 Made for budget-conscious individuals, families, and small business owners.**  
+🌟 Let's make bill management smarter, more automated, and fully private.
