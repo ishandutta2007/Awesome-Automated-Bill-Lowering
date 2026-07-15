@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Automated Bill Lowering" width="100%"/>
+</div>
+
 # Awesome-Automated-Bill-Lowering
 ## Top Automated Bill Lowering Softwares Ecosystem
 
