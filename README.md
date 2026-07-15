@@ -23,13 +23,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Automated Bill Lowering)
 
-| Name | Description | Pricing |
-|------|-------------|---------|
-| **[Trim](https://trim.app/)** | AI-powered bill negotiation and subscription management service that automatically saves users money. | ⚠️ **Discontinued** — Acquired by OneMain Financial in 2021; no longer active as a consumer service. |
-| **[Rocket Money](https://rocketmoney.com/)** | Popular app for tracking subscriptions, negotiating bills, and optimizing personal finances. | **Free tier:** Subscription tracking, basic budgeting (2 categories), spending alerts. **Premium:** $7–$14/mo (pay-what-you-want, 7-day free trial). **Bill negotiation:** 35–60% of first year's savings (available on free & premium). |
-| **[Billshark](https://www.billshark.com/)** | Bill negotiation service that fights for lower rates on cable, internet, insurance, and more. | **No upfront fees.** Success fee: 40% of total savings. Subscription cancellation: $9/cancelled subscription. No savings = no charge. |
-| **[Kudos](https://joinkudos.com/)** | AI bill reduction platform focused on proactive negotiation and expense optimization. | **Free tier:** Basic bill negotiation & credit card reward optimization. **Premium:** $71.95/year. No commission on savings — you keep 100%. |
-| **[BillCutterz](https://www.billcutterz.com/)** | Negotiates lower rates on cell phone, cable, internet, home security, and satellite radio bills. | **No upfront fees.** Success fee: 50% of savings. Pay-in-full discount: additional 10% off fee. No savings = no charge. |
+| Name | Description | Pricing | Company Size |
+|------|-------------|---------|--------------|
+| **[Rocket Money](https://rocketmoney.com/)** | Popular app for tracking subscriptions, negotiating bills, and optimizing personal finances. | **Free tier:** Subscription tracking, basic budgeting (2 categories), spending alerts. **Premium:** $7–$14/mo (pay-what-you-want, 7-day free trial). **Bill negotiation:** 35–60% of first year's savings (available on free & premium). | **$1.275B** acquisition by Rocket Companies (2021) |
+| **[Trim](https://trim.app/)** | AI-powered bill negotiation and subscription management service that automatically saves users money. | ⚠️ **Discontinued** — Acquired by OneMain Financial in 2021; no longer active as a consumer service. | Acquired by OneMain Financial (~$6.5B market cap); deal terms undisclosed |
+| **[Kudos](https://joinkudos.com/)** | AI bill reduction platform focused on proactive negotiation and expense optimization. | **Free tier:** Basic bill negotiation & credit card reward optimization. **Premium:** $71.95/year. No commission on savings — you keep 100%. | **$13.5M** total funding (Series A) |
+| **[Billshark](https://www.billshark.com/)** | Bill negotiation service that fights for lower rates on cable, internet, insurance, and more. | **No upfront fees.** Success fee: 40% of total savings. Subscription cancellation: $9/cancelled subscription. No savings = no charge. | **~$3M** seed funding |
+| **[BillCutterz](https://www.billcutterz.com/)** | Negotiates lower rates on cell phone, cable, internet, home security, and satellite radio bills. | **No upfront fees.** Success fee: 50% of savings. Pay-in-full discount: additional 10% off fee. No savings = no charge. | Undisclosed (bootstrapped) |
 
 ### Advanced & Specialized Platforms
 
