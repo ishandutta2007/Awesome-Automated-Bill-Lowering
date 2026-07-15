@@ -132,3 +132,14 @@ Yes! Rocket Money and Kudos both offer free tiers. Open-source tools like n8n, F
 
 **Can I build my own bill lowering system?**  
 Absolutely. Combine open-source tools like n8n (automation), Firefly III (finance tracking), LangGraph (AI agents), and Ollama (local LLM) to build a fully private, AI-powered bill optimization pipeline.
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Automated-Bill-Lowering&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Automated-Bill-Lowering&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Automated-Bill-Lowering&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Automated-Bill-Lowering&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
