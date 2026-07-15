@@ -39,43 +39,47 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Bill Lowering & Subscription Management Tools
 
-- **[n8n Bill Optimization Workflows](https://github.com/n8n-io/n8n)**  
+- **[n8n Bill Optimization Workflows](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Open-source automation tool with LLM nodes for building custom bill tracking, negotiation scripts, and subscription management systems.
 
-- **[Firefly III](https://github.com/firefly-iii/firefly-iii)**  
-  Open-source personal finance manager with strong subscription tracking and expense categorization features.
+- **[Home Assistant](https://github.com/home-assistant/core)** [![GitHub stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) — with energy and expense tracking integrations.
 
-- **[Actual Budget](https://github.com/actualbudget/actual)**  
-  Open-source budgeting tool with AI-friendly data structures for identifying and optimizing recurring expenses.
-
-- **[Huginn Bill Agents](https://github.com/huginn/huginn)**  
-  Open-source automation agent that can monitor bills, detect price changes, and trigger optimization actions.
-
-- **[Frappe/ERPNext](https://github.com/frappe/erpnext)**  
-  Full open-source ERP with expense, subscription, and cost optimization modules suitable for personal or small business use.
-
-- **[Odoo](https://github.com/odoo/odoo)**  
+- **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   Comprehensive open-source business suite with powerful accounting and subscription management tools.
 
-- **[Akaunting](https://github.com/akaunting/akaunting)**  
-  Open-source online accounting software with expense tracking and bill management features.
+- **[Huginn Bill Agents](https://github.com/huginn/huginn)** [![GitHub stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
+  Open-source automation agent that can monitor bills, detect price changes, and trigger optimization actions.
 
-- **[LangGraph Finance Agents](https://github.com/langchain-ai/langgraph)**  
-  Stateful multi-agent framework for building AI agents that analyze bills and suggest optimizations.
-
-- **[Phidata Finance Agents](https://github.com/phidatahq/phidata)**  
+- **[Phidata Finance Agents](https://github.com/phidatahq/phidata)** [![GitHub stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social&color=white)](https://github.com/phidatahq/phidata/stargazers)  
   Framework for building production agents with memory and tools for personal finance optimization.
 
-- **[Budget with Buckets](https://github.com/buckets/application)**  
+- **[LangGraph Finance Agents](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  Stateful multi-agent framework for building AI agents that analyze bills and suggest optimizations.
+
+- **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers)  
+  Open-source budgeting tool with AI-friendly data structures for identifying and optimizing recurring expenses.
+
+- **[Frappe/ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+  Full open-source ERP with expense, subscription, and cost optimization modules suitable for personal or small business use.
+
+- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)  
+  Open-source personal finance manager with strong subscription tracking and expense categorization features.
+
+- **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
+  Open-source online accounting software with expense tracking and bill management features.
+
+- **[Beancount](https://github.com/beancount/beancount)** [![GitHub stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers) — Powerful plain-text accounting system.
+
+- **[hledger](https://github.com/simonmichael/hledger)** [![GitHub stars](https://img.shields.io/github/stars/simonmichael/hledger?style=social&color=white)](https://github.com/simonmichael/hledger/stargazers) — Command-line accounting tool with scripting capabilities.
+
+- **[GnuCash](https://github.com/Gnucash/gnucash)** [![GitHub stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers) — Double-entry accounting with bill management.
+
+- **[Budget with Buckets](https://github.com/buckets/application)** [![GitHub stars](https://img.shields.io/github/stars/buckets/application?style=social&color=white)](https://github.com/buckets/application/stargazers)  
   Open-source envelope budgeting system with potential for bill tracking automation.
 
-### Additional Strong Open-Source Options
+### Additional Resources
 
-- **[Home Assistant](https://github.com/home-assistant/core)** with energy and expense tracking integrations.
-- **[GnuCash](https://github.com/Gnucash/gnucash)** — Double-entry accounting with bill management.
-- **[Beancount](https://github.com/beancount/beancount)** — Powerful plain-text accounting system.
-- **[hledger](https://github.com/simonmichael/hledger)** — Command-line accounting tool with scripting capabilities.
-- **[Many community Python scripts** for scraping bills and negotiating via APIs.
+- **Many community Python scripts** for scraping bills and negotiating via APIs.
 - **Ollama + Receipt OCR** pipelines for local bill analysis and optimization agents.
 
 **Frameworks for building custom tools**: Combine **Firefly III**, **n8n**, **LangGraph**, and **Huginn** with **Ollama** to create fully private, AI-powered bill lowering systems.
